@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\four\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\four\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_boxes.-904910806.00" t="ExcludeRecursive" />
+    <e p="C:\work\Learn\ilia005\Village\Village\boxes" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FieldOfView" t="Include">
+          <e p="Core" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FieldOfViewConfigurationEditor.cs" t="Include" />
+                <e p="FieldOfViewSkinEditor.cs" t="Include" />
+                <e p="SkinMaterialBuilder.cs" t="Include" />
+              </e>
+              <e p="FieldOfView.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SkinSwapShader.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="DevGuideDemo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Coin.cs" t="Include" />
+                <e p="Enemy.cs" t="Include" />
+                <e p="GameStateManager.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PerformanceTest" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="FpsMeter.cs" t="Include" />
+                <e p="Spawner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SimpleGame" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="EnemyController.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="PathVisualizer.cs" t="Include" />
+                <e p="PlayerController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="NavMeshComponents" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NavMeshAssetManager.cs" t="Include" />
+              <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+              <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+              <e p="NavMeshLinkEditor.cs" t="Include" />
+              <e p="NavMeshModifierEditor.cs" t="Include" />
+              <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+              <e p="NavMeshSurfaceEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="NavMeshComponents.asmdef" t="Include" />
+              <e p="NavMeshLink.cs" t="Include" />
+              <e p="NavMeshModifier.cs" t="Include" />
+              <e p="NavMeshModifierVolume.cs" t="Include" />
+              <e p="NavMeshSurface.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Player.cs" t="Include" />
+        </e>
+      </e>
+      <e p="boxes.sln" t="IncludeFlat" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
